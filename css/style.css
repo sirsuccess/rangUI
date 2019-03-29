@@ -15,7 +15,7 @@
 }
 .main-left{
     width: 50%;
-    background-image: url("/img/study_1.jpg");
+    background-image: url("../img/study_1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 300px;
